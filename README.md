@@ -22,7 +22,7 @@ This project is a website about animals. This site is the final part of the Java
 Run the following command on your local environment:
 
 ```
-git clone https://github.com/matheusleite01/Surfbot.git
+git clone https://github.com/matheusleite01/animais-fantasticos.git
 ```
 
  or
