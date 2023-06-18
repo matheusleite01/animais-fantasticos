@@ -2,6 +2,8 @@
 
 ![App Screenshot](/img/imgReadme.png)
 
+#### Access here -> [Animais Fantásticos](https://matheusleite01.github.io/animais-fantasticos/)
+
 # Overview
 
 This project is a website about animals. This site is the final part of the JavaScript course on the [Origamid](https://www.origamid.com/curso/javascript-completo-es6/) site. The focus of the course is to teach from basic to advanced level everything about javascript, building everything from scratch without using any type libraries.
@@ -25,9 +27,6 @@ Run the following command on your local environment:
 git clone https://github.com/matheusleite01/animais-fantasticos.git
 ```
 
- or
-
-Access this link [Animais Fantásticos](https://matheusleite01.github.io/animais-fantasticos/)
 
 # Credits
 
